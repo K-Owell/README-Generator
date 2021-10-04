@@ -33,7 +33,7 @@ function generateMarkdown(data) {
   - [License](#license)
   - [Contribute](#contribute)
   - [Link](#link)
-  - [Contact Info](#github)
+  - [Contact Info](#contact-info)
 
 
   ## Instructions

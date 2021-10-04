@@ -1,10 +1,10 @@
-# Project Test
+# README-Generator
 
   ![License](https://img.shields.io/badge/License-mit-blue.svg)
   
   
   ## Description
-  Tests Projects
+  A high-quality, open source README generator that easily generates a customized README file based on user input. This input will include things like: Project title, installation instructions, license information, etc.
 
 
   ## Table of Contents
@@ -14,23 +14,23 @@
   - [License](#license)
   - [Contribute](#contribute)
   - [Link](#link)
-  - [Contact Info](#github)
+  - [Contact Info](#contact-info)
 
 
   ## Instructions
-  Absolutely not
+  Install Node.js, download or clone required files, go to Terminal and type "npm i", install inquirer, and run the program with "node index".
 
 
   ## Usage
-  Nothing
+  Dynamically generates a professional README file by invoking the command: node index, and answering the prompted questions.
   
 
   ## Contribute
-  Nope
+  Email me at the provided link below.
 
 
   ## Link
-  no
+  https://k-owell.github.io/README-Generator/
 
   ## Contact Info
   * k.mcdowellr@gmail.com
@@ -40,6 +40,4 @@
 
   ## License 
   This project is covered by mit [License](https://choosealicense.com/licenses/mit/)
-  
-  [License](https://choosealicense.com/licenses/mit/)
   
